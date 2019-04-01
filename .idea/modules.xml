@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-acquisition-api/data-acquisition-api.iml" filepath="$PROJECT_DIR$/data-acquisition-api/data-acquisition-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-acquisition-connect/data-acquisition-connect.iml" filepath="$PROJECT_DIR$/data-acquisition-connect/data-acquisition-connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-acquisition-core/data-acquisition-core.iml" filepath="$PROJECT_DIR$/data-acquisition-core/data-acquisition-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-acquisition-parent.iml" filepath="$PROJECT_DIR$/data-acquisition-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-acquisition-service/data-acquisition-service.iml" filepath="$PROJECT_DIR$/data-acquisition-service/data-acquisition-service.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="data-acquisition-api" />
+        <module name="data-acquisition-connect" />
+        <module name="data-acquisition-core" />
+        <module name="data-acquisition-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="data-acquisition-api" target="1.7" />
+      <module name="data-acquisition-connect" target="1.7" />
+      <module name="data-acquisition-core" target="1.7" />
+      <module name="data-acquisition-parent" target="1.7" />
+      <module name="data-acquisition-service" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
