@@ -190,6 +190,9 @@ public class BloodPressureService implements DataProcess<BloodPressure> {
 # 后续内容
 * 监控可视化
 * 高并发性能测试
-
+# 打包
+```
+mvn package spring-boot:repackage
+```
 
 
